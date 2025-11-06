@@ -3,7 +3,7 @@ I type on a keyboard. That's it really.
 ## Badges?
 
 It's what the cool kids are doing these days:
-[![Shiny Shinies](https://holopin.io/api/user/board?user=austiniguess)](https://holopin.io/@austiniguess)
+[![Shiny Shinies](https://holopin.me/austiniguess)](https://holopin.io/@austiniguess)
 
 ## Here's the default generated GitHub profile README contents, because I feel bad deleting them:
 
