@@ -5,7 +5,7 @@ I type on a keyboard. That's it really.
 It's what the cool kids are doing these days:
 [![Shiny Shinies](https://holopin.me/austiniguess)](https://holopin.io/@austiniguess)
 
-## Here's the default generated GitHub profile README contents, because I feel bad deleting them:
+## Here's the default generated GitHub profile README, because I feel bad deleting them:
 
 ## Hi there 👋
 
