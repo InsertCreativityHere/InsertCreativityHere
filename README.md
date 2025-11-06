@@ -1,6 +1,14 @@
+I type on a keyboard. That's it really.
+
+## Badges?
+
+It's what the cool kids are doing these days:
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+
+## Here's the default generated GitHub profile README contents, because I feel bad deleting them:
+
 ## Hi there 👋
 
-<!--
 **InsertCreativityHere/InsertCreativityHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
